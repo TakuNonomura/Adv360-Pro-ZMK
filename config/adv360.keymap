@@ -79,7 +79,7 @@
         layer_kp {
             bindings = <
  &trans   &trans  &trans  &trans  &trans  &trans            &none                                                   &mo 3  &trans  &trans  &trans   &trans   &trans  &trans
- &trans   &trans  &trans  &trans  &trans  &trans            &tog 2                                                  &none  &trans  &trans  &trans   &trans   &trans   &trans
+ &trans   &trans  &trans  &trans  &trans  &trans            &tog 1                                                  &none  &trans  &trans  &trans   &trans   &trans   &trans
  &trans   &trans  &trans  &trans  &trans  &trans            &none   &trans  &trans   &trans  &trans  &trans  &trans &none  &trans  &trans  &trans   &trans   &trans   &trans
  &trans   &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans   &trans  &trans  &trans  &trans &trans  &trans  &trans  &trans   &trans   &trans   &trans
  &trans   &trans  &trans  &trans  &trans                    &trans  &trans  &trans                   &trans  &trans &trans          &trans  &trans   &trans   &trans   &trans
